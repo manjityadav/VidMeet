@@ -76,7 +76,7 @@ export default function Authentication() {
                     sm={4}
                     md={7}
                     sx={{
-                        backgroundImage: 'url(https://source.unsplash.com/random?wallpapers)',
+                        backgroundImage: 'url(https://media.istockphoto.com/id/1220057843/vector/boy-having-a-video-call-with-his-grandmother.jpg?s=612x612&w=0&k=20&c=or8fHqi_jpnnc9x-t-49BTqr2X8Z3Ss0d8Iwqb8YUWc=)',
                         backgroundRepeat: 'no-repeat',
                         backgroundColor: (t) =>
                             t.palette.mode === 'light' ? t.palette.grey[50] : t.palette.grey[900],
