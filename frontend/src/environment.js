@@ -1,6 +1,6 @@
 let IS_PROD = true;
 const server = IS_PROD ?
-    "https://vidmeet-3.onrender.com":
+    "https://vidmeet-backend.onrender.com":
 
     "http://localhost:8000"
 
