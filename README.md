@@ -104,32 +104,6 @@ vidmeet/
 
 ---
 
-## 📸 Screenshots
-
-Create a folder named `screenshots` in the project root.
-
-```bash
-screenshots/
-├── home.png
-├── video-call.png
-├── chat.png
-└── screen-share.png
-```
-
-Example:
-
-```md
-![Home](screenshots/home.png)
-
-![Video Call](screenshots/video-call.png)
-
-![Chat](screenshots/chat.png)
-
-![Screen Share](screenshots/screen-share.png)
-```
-
----
-
 ## ⚙️ Installation
 
 ### Clone Repository
